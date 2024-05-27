@@ -1,0 +1,20 @@
+{
+  "email": "#(newEmail)",
+  "password": "#(password)",
+  "acceptGcs": true,
+  "storeId": 1,
+  "newsletter": {
+    "byEmail": false,
+    "byPush": false
+  },
+  "offers": {
+    "byEmail": false,
+    "byPush": false
+  },
+  "subscriptions": [],
+  "adFar": [],
+  "purchase": {
+    "purchase": [],
+    "total": 0
+  }
+}

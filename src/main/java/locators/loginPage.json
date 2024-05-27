@@ -1,0 +1,13 @@
+{
+	"acceptCookiesButton": "//*[@class='btn btn-large btn-secondary']",
+	"loginButton": "//*[@id='button_login']",
+	"signinButton": "//*[@id='signin_continue']",
+	"getStartedButton": "//*[@id='heroBlockBtn']",
+	"continueButton": "//*[@id='auth_continue']",
+	"registerButton": "//*[@id='signup_continue']",
+	"tryForFreeButton": "//*[@class='btn btn-extra-large btn-secondary']",
+	"creditCardRadioButton": "//*[@class='radio_first pointer' and contains(@for, 'radio_paymentByCard')]",
+	"emailTextbox": "//*[@name='email']",
+	"confirmEmailTextbox": "//*[@name='confirmEmail']",
+	"passwordTextbox": "//*[@name='password']"
+}

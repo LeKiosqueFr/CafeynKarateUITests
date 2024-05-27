@@ -1,0 +1,38 @@
+{
+  "staging": [
+    {
+      "cardHolderName": "John Wick",
+      "cardNumber": "5454545454545454",
+      "expiryDate": "03/30",
+      "cvv": "737",
+      "treeDSPassword": "password"
+    }
+  ],
+  "prod": [
+    {
+      "cardHolderName": "John Mouta",
+      "cardNumber": "5454545454545454",
+      "expiryDate": "03/30",
+      "cvv": "737",
+      "treeDSPassword": "password"
+    }
+  ],
+  "preprod": [
+    {
+      "cardHolderName": "John Skynight",
+      "cardNumber": "5454545454545454",
+      "expiryDate": "03/30",
+      "cvv": "737",
+      "treeDSPassword": "password"
+    }
+  ],
+  "dev": [
+    {
+      "cardHolderName": "John Wickless",
+      "cardNumber": "5454545454545454",
+      "expiryDate": "03/30",
+      "cvv": "737",
+      "treeDSPassword": "password"
+    }
+  ]
+}

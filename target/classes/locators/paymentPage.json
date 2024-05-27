@@ -1,0 +1,14 @@
+{
+	"paymentSubmitButton": "//*[@id='payment_submit_btn']",
+	"treeDSSubmitButton": "//*[@id='buttonSubmit']",
+	"termsAndConditionsCheckbox": "//input[@id='cgv']",
+	"creditCardFullNameTextbox": "//*[@class='control']/input[@name='personalInformationFullName']",
+	"creditCardNumberTextbox": "//*[@id='cardnumber']",
+	"creditCardExpDateTextbox": "//*[@id='exp-date']",
+	"creditCardCVCTextbox": "//*[@id='cvc']",
+	"treeDSTextboxe": "//*[@type='password']",
+	"cardNumberIframe": "#card-number_frame",
+	"expDateIframe": "#card-expiry_frame",
+	"cvcIframe": "#card-cvc_frame",
+	"treeDSIFrame": ".frame-contents.no-spinner iframe"
+}
